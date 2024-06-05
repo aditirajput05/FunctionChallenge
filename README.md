@@ -30,8 +30,7 @@ javascript
 solidity
 Copy code
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.9;
-
+pragma solidity 0.8.18;
 contract FunctionChallenge {
     address payable public owner;
     uint256 public balance;
